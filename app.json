@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "41b0b3ff-035c-4b4d-b894-87fbf3954293"
+      }
+    },
+    "owner": "superkid-abc"
   }
 }
